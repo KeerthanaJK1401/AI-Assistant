@@ -1,6 +1,6 @@
 AI-powered research assistant that leverages real-time web and Wikipedia data to generate rich, structured, and human-readable summaries on any topic. It features a sleek, user-friendly interface and supports downloading the research output as a text file.
 
-Features:
+-------FEATURES-------
 
 Perform intelligent topic-based research via natural language input
 
@@ -16,7 +16,7 @@ One-click clear, search, and save operations
 
 Output includes summary, sources, and tools used
 
-Tech Stack:
+-------TECH STACK---------
 
 Frontend: HTML, CSS
 
