@@ -10,7 +10,7 @@ Powered by OpenRouter's Mistral-7B LLM
 
 Option to save summaries as neatly formatted .txt files
 
-Beautiful, modern single-page web UI with pastel theme
+Beautiful, modern single-page web UI 
 
 One-click clear, search, and save operations
 
@@ -27,4 +27,8 @@ AI/LLM: LangChain + OpenRouter (Mistral-7B)
 Tools: DuckDuckGo Search, Wikipedia API
 
 Environment: dotenv for API key handling
+
+---------URL----------
+
+https://ai-assistant-yzda.onrender.com/
 
