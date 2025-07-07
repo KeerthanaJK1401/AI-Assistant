@@ -28,7 +28,6 @@ Tools: DuckDuckGo Search, Wikipedia API
 
 Environment: dotenv for API key handling
 
----------URL----------
+---------LIVE DEMO----------
 
-https://ai-assistant-yzda.onrender.com/
-
+Check out the live project here: AI Research Assistant -> https://ai-assistant-yzda.onrender.com/
